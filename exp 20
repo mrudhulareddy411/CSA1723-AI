@@ -1,0 +1,3 @@
+planet(earth, 1).
+planet(mars, 2).
+planet(jupiter, 79).
